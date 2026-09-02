@@ -1,0 +1,19 @@
+uploads = []
+
+[[generated]]
+id = "v4TWiZwsojnKVMnTy7qBu"
+uri = "file://artifacts/khaata/public/hero-image.png"
+type = "image"
+title = "Indian business owner at desk"
+
+[[outputs]]
+id = "C6mfVr4RxfkiTyqD7BJ0a"
+uri = "file://khaata-project.zip"
+type = "unspecified"
+title = "Khaata Project Source Code"
+
+[[outputs]]
+id = "wfpzOm7q15DxVMuz8QDQW"
+uri = "file://invoices-app-feature-reference.md"
+type = "text"
+title = "Invoices App — Complete Feature Reference"

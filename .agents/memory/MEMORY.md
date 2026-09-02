@@ -1,0 +1,1 @@
+- [Khaata: schedule/fee business data must live in context](khaata-business-setup-shared-state.md) — local page state breaks cross-page consistency for prototype "configure once, use elsewhere" flows.
